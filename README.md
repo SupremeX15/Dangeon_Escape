@@ -63,7 +63,7 @@ Dangeon_Escape/
 
 ### Core Gameplay
 
-- **Intelligent AI Systems** - Utilizing Unreal's AIModule and StateTree for responsive enemy behavior
+- **Intelligent AI System** - Utilizing Unreal's AIModule and StateTree for responsive enemy behavior
 - **Dynamic Level Design** - Interactive environments with state-based mechanics
 - **Advanced UI** - Comprehensive user interface built with UMG
 - **Immersive Escape Mechanics** - Puzzle-solving and survival elements
